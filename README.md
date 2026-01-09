@@ -1,0 +1,1 @@
+# informatyka_projekt_2026_python
