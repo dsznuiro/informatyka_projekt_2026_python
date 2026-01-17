@@ -1,6 +1,8 @@
 ***Tytuł:*** Winiarnia SCADA  
 ***Autor:*** Maciej Pawłowski  
 
+Projekt został zrealizowany z udziałem biblioteki PyQt5  
+
 ***Dodatkowe elementy:***  
 -dynamicznie zmieniający się kolor cieczy podczas łączenia różnych zbiorników  
 -okno diagnostyczne zawierające wartości o temperaturze, ilości cieczy oraz % alkoholu w zbiorniku  
